@@ -1,3 +1,15 @@
+Poldadot - Main Chain:  https://polkadot.network/
+
+Poldadot Wiki - If you can find it here :-)  https://wiki.polkadot.network/docs/en/learn-launch
+
+Kusama - Canary network for Poldadot:  https://kusama.network/
+
+RioChain - Connecting the Polkadot parachains with other blockchains:  https://riochain.io/
+RioChain Block Explorer:  https://scan.riochain.io/
+
+
+
+
 # Polkadot
 Polkadot is built to connect private and consortium chains, public and permissionless networks, oracles, and future technologies that are yet to be created. Polkadot facilitates an internet where independent blockchains can exchange information and transactions in a trustless way via the Polkadot relay chain.
 
